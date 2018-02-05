@@ -23,3 +23,16 @@ $border-radius-large: 2px;
 $border-radius-small: 2px;
 
 // Override other variables below!
+// dropdown
+$dropdown-bg:                   $red;
+$dropdown-divider-bg:           $blue;
+$dropdown-link-hover-bg:        $blue;
+$dropdown-link-disabled-color:  $yellow;
+$dropdown-border:               $blue;
+$dropdown-link-color:           $blue;
+$dropdown-link-active-color:    $yellow;
+$dropdown-header-color:         $yellow;
+$dropdown-fallback-border:      $yellow;
+$dropdown-link-hover-color:     $blue;
+$dropdown-link-active-bg:       $yellow;
+$dropdown-caret-color:          $yellow;
